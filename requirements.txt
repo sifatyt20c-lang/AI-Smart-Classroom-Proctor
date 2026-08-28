@@ -2,3 +2,4 @@ opencv-python
 mediapipe
 numpy
 google-generativeai
+opencv-python-headless
